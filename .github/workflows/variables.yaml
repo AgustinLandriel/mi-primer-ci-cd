@@ -10,7 +10,7 @@ jobs:
     mostrar:
         runs-on: ubuntu-latest
         env:
-            RESPONSABLE: "Estudiante Devops"
+            RESPONSABLE: "Estudiante Devopss"
         steps:
             - name: Mostrar info
               run: |
